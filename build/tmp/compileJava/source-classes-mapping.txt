@@ -1,0 +1,12 @@
+lotto/domain/Rank.java
+ lotto.domain.Rank
+lotto/domain/WinningLotto.java
+ lotto.domain.WinningLotto
+lotto/domain/Lotto.java
+ lotto.domain.Lotto
+lotto/service/LottoService.java
+ lotto.service.LottoService
+lotto/Application.java
+ lotto.Application
+lotto/domain/Result.java
+ lotto.domain.Result
